@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali Husanov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alihusanov1&label=Profile%20views&color=0e75b6&style=flat" alt="alihusanov1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ali_yusupof" target="blank"><img src="https://img.shields.io/twitter/follow/ali_yusupof?logo=twitter&style=for-the-badge" alt="ali_yusupof" /></a> </p>
 
 - 🔭 I’m currently working on [Astrum-project](file:///D:/Astrum%20proectim/index.html)
+- <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **Android, Reactnative, Flutter, Mongodb**
 
