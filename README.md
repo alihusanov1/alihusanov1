@@ -13,11 +13,15 @@
 
 - 🤝 I’m looking for help with **Google**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aliyusupof](https://github.com/aliyusupof)
+- 👨‍💻 All of my projects are available at [https://github.com/alihusanov1](https://github.com/alihusanov1)
 
 - 💬 Ask me about **Html, Css, Sass, Bootstrap, React, Javascript, React**
 
-- 📄 Know about my experiences [file:///D:/Portfole/index.html](file:///D:/Portfole/index.html)
+- 📫 How can I be contacted? **aliyusupof002@gmail.com**
+
+- 📄 Know about my experiences [https://ali-husanov-portfolo.netlify.app/](https://ali-husanov-portfolo.netlify.app/)
+
+- ⚡ Resume **https://drive.google.com/drive/u/0/my-drive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
