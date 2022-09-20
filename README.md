@@ -6,8 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ali_yusupof-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ali_yusupof "Follow on Twitter")
 
 - 🔭 I’m currently working on [Astrum-project](file:///D:/Astrum%20proectim/index.html)
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 - 🌱 I’m currently learning **Android, Reactnative, Flutter, Mongodb**
 
 - 👯 I’m looking to collaborate on **Google, Facebook, Apple**
