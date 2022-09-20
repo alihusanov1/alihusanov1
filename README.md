@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ali Husanov</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+## Hi there, [Ali]([https://samujjwaal.me](https://github.com/alihusanov1)) here 👋🏼👨🏻‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alihusanov1&label=Profile%20views&color=0e75b6&style=flat" alt="alihusanov1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ali_yusupof" target="blank"><img src="https://img.shields.io/twitter/follow/ali_yusupof?logo=twitter&style=for-the-badge" alt="ali_yusupof" /></a> </p>
+[![Instagram Badge](https://img.shields.io/badge/-said__xikmatxojayev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)]([https://instagram.com/said__xikmatxojayev](https://www.instagram.com/yusupof__1/))
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
 
 - 🔭 I’m currently working on [Astrum-project](file:///D:/Astrum%20proectim/index.html)
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
@@ -24,13 +24,6 @@
 
 - ⚡ Resume **https://drive.google.com/drive/u/0/my-drive**
 
-## Hi there, [Ali](https://samujjwaal.me) here 👋🏼👨🏻‍💻
-
-[![Gmail Badge](https://img.shields.io/badge/-samujjwaal.dey@acuitybrands.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
 
 
 ## ⚡ Technologies
