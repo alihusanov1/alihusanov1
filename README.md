@@ -1,4 +1,4 @@
-## Hi there, [Ali](https://t.me/alihusanov1.me) here 👋🏼👨🏻‍💻
+## Hi there, [Ali](https://t.me/yusupof_oo2.me) here 👋🏼👨🏻‍💻
 
 [![Instagram Badge](https://img.shields.io/badge/-yusupof__1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/yusupof__1)
 [![](https://img.shields.io/badge/-@alihusanov1-%23181717?style=flat-square&logo=github)](https://github.com/alihusanov1)
