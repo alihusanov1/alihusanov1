@@ -1,9 +1,9 @@
 ## Hi there, [Ali]([https://samujjwaal.me](https://github.com/alihusanov1)) here 👋🏼👨🏻‍💻
 
 [![Instagram Badge](https://img.shields.io/badge/-yusupof__1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/yusupof__1)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
+[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/alihusanov1)
+[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/yusupof_oo2 "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@ali_yusupof-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ali_yusupof "Follow on Twitter")
 
 - 🔭 I’m currently working on [Astrum-project](file:///D:/Astrum%20proectim/index.html)
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
