@@ -1,6 +1,6 @@
 ## Hi there, [Ali]([https://samujjwaal.me](https://github.com/alihusanov1)) here 👋🏼👨🏻‍💻
 
-[![Instagram Badge](https://img.shields.io/badge/-said__xikmatxojayev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)]([https://instagram.com/said__xikmatxojayev](https://www.instagram.com/yusupof__1/))
+[![Instagram Badge][(https://img.shields.io/badge/-said__xikmatxojayev-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/](https://www.instagram.com/yusupof__1/))]([https://instagram.com/said__xikmatxojayev](https://www.instagram.com/yusupof__1/))
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
