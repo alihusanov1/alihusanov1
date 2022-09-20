@@ -1,8 +1,8 @@
 ## Hi there, [Ali]([https://samujjwaal.me](https://github.com/alihusanov1)) here 👋🏼👨🏻‍💻
 
 [![Instagram Badge](https://img.shields.io/badge/-yusupof__1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/yusupof__1)
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/alihusanov1)
-[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/yusupof_oo2 "Contact on Telegram")
+[![](https://img.shields.io/badge/-@alihusanov1-%23181717?style=flat-square&logo=github)](https://github.com/alihusanov1)
+[![Telegram Badge](https://img.shields.io/badge/-@yusupof_oo2-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/yusupof_oo2 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@ali_yusupof-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ali_yusupof "Follow on Twitter")
 
 - 🔭 I’m currently working on [Astrum-project](file:///D:/Astrum%20proectim/index.html)
