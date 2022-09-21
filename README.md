@@ -11,14 +11,10 @@
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently learning on something cool;
-- 💬 Ask me about anything. I will try to help you as much as I can.
-
-- 📫 How can I be contacted? **aliyusupof002@gmail.com**
-
-- 📄 Know about my experiences [https://ali-husanov-portfolo.netlify.app/](https://ali-husanov-portfolo.netlify.app/)
-
-- ⚡ Resume **https://drive.google.com/drive/u/0/my-drive**
-
+- 💬 Ask me about anything. I will try to help you as much as I can;
+- I am a frontend developer, mainly interested in working with design;
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/alihusanov1">Github</a>;
+- 📝 I create landing pages in my spare time.
 
 
 ## ⚡ Technologies
