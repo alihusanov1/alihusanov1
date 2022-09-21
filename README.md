@@ -5,6 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-@yusupof_oo2-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/yusupof_oo2 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@ali_yusupof-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ali_yusupof "Follow on Twitter")
 
+Hello, My name is Ali and I was born in 2002 on the 22nd of June. I mainly work with the frontend and I'm the student of Astrum IT Academy.I can create any site by the help of javascript, html, css, bootstrap and sass. Now, I'm learning ReactJS. I work with ruby on rails and nodejs on the site's backend part. I'm a curious and fast learner. I try to complete the given task with high quality and before the deadline.
 
 <img style="margin:10px" align="right" alt="Hello world gif" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" height="300" width="400" />
 
