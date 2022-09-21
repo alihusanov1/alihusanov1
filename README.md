@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently learning on something cool;
 - 💬 Ask me about anything. I will try to help you as much as I can.
-- 💬 Ask me about **Html, Css, Sass, Bootstrap, React, Javascript, React**
 
 - 📫 How can I be contacted? **aliyusupof002@gmail.com**
 
