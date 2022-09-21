@@ -8,14 +8,10 @@
 - 🔭 I’m currently working on [Astrum-project](file:///D:/Astrum%20proectim/index.html)
 <img style="margin:10px" align="right" alt="Hello world gif" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" height="300" width="400" />
 
-- 🌱 I’m currently learning **Android, Reactnative, Flutter, Mongodb**
+**Talking about Personal Stuffs:**
 
-- 👯 I’m looking to collaborate on **Google, Facebook, Apple**
-
-- 🤝 I’m looking for help with **Google**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alihusanov1](https://github.com/alihusanov1)
-
+- 🔭 I’m currently learning on something cool;
+- 💬 Ask me about anything. I will try to help you as much as I can.
 - 💬 Ask me about **Html, Css, Sass, Bootstrap, React, Javascript, React**
 
 - 📫 How can I be contacted? **aliyusupof002@gmail.com**
