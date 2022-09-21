@@ -1,7 +1,7 @@
 ## Hi there, [Ali](https://t.me/yusupof_oo2/) here 👋🏼👨🏻‍💻
 
 [![Instagram Badge](https://img.shields.io/badge/-yusupof__1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/yusupof__1)
-[![](https://img.shields.io/badge/-@alihusanov1-%23181717?style=flat-square&logo=github)](https://github.com/alihusanov1)
+[![](https://img.shields.io/badge/-@aliyusupof1-%23181717?style=flat-square&logo=github)](https://github.com/aliyusupof1)
 [![Telegram Badge](https://img.shields.io/badge/-@yusupof_oo2-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/yusupof_oo2 "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@ali_yusupof-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ali_yusupof "Follow on Twitter")
 
@@ -14,7 +14,7 @@
 - 🔭 I’m currently learning on something cool;
 - 💬 Ask me about anything. I will try to help you as much as I can;
 - I am a frontend developer, mainly interested in working with design;
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/alihusanov1">Github</a>;
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/aliyusupof1">Github</a>;
 - 📝 I create landing pages in my spare time.
 
 
