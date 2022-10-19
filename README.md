@@ -1,9 +1,9 @@
 ## Hi there, [Ali](https://t.me/yusupof_oo2/) here 👋🏼👨🏻‍💻
 
-[![Instagram Badge](https://img.shields.io/badge/-yusupof__1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/yusupof__1)
+[![Instagram Badge](https://img.shields.io/badge/-aliyusupof1-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/aliyusupof1)
 [![](https://img.shields.io/badge/-@aliyusupof1-%23181717?style=flat-square&logo=github)](https://github.com/aliyusupof1)
 [![Telegram Badge](https://img.shields.io/badge/-@aliyusupof1-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/aliyusupof1 "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-@ali_yusupof-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=ali_yusupof "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@aliyusupof1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=aliyusupof1 "Follow on Twitter")
 
 <-Hello, My name is Ali.  I mainly work with the frontend. I can create any site by the help of javascript, html, css, bootstrap and sass. Now, I'm learning ReactJS. I work with ruby on rails and nodejs on the site's backend part. I'm a curious and fast learner. I try to complete the given task with high quality and before the deadline.->
 
